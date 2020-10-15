@@ -1,2 +1,2 @@
 # ConsultaCEP
-Form para realizar uma consulta de CEP.
+Form para realizar consultas de CEPs.
